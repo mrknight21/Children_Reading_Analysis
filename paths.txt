@@ -1,0 +1,5 @@
+rating: <div class="ratings-small star rating-5 field_stars_rating csm_review"></div> 
+ed: <div class="field-collection-view clearfix view-mode-full" id="content-grid-item-educational"></div>
+message: <div class="field-collection-view clearfix view-mode-full" id="content-grid-item-message">
+positive role: <div class="field-collection-view clearfix view-mode-full" id="content-grid-item-role_model">
+violence: <div class="field-collection-view clearfix view-mode-full" id="content-grid-item-violence">
