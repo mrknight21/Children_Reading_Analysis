@@ -8,4 +8,4 @@ language: <div class="field-collection-view clearfix view-mode-full" id="content
 consumerism: <div class="field-collection-view clearfix view-mode-full" id="content-grid-item-consumerism">
 drugs: <div class="field-collection-view clearfix view-mode-full" id="content-grid-item-drugs">
 
-review-product-details-list
+review-product-details-lists
