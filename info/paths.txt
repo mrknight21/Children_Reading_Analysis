@@ -1,5 +1,11 @@
 rating: <div class="ratings-small star rating-5 field_stars_rating csm_review"></div> 
-ed: <div class="field-collection-view clearfix view-mode-full" id="content-grid-item-educational"></div>
+educational: <div class="field-collection-view clearfix view-mode-full" id="content-grid-item-educational"></div>
 message: <div class="field-collection-view clearfix view-mode-full" id="content-grid-item-message">
-positive role: <div class="field-collection-view clearfix view-mode-full" id="content-grid-item-role_model">
+role_model: <div class="field-collection-view clearfix view-mode-full" id="content-grid-item-role_model">
 violence: <div class="field-collection-view clearfix view-mode-full" id="content-grid-item-violence">
+sex: <div class="field-collection-view clearfix view-mode-full" id="content-grid-item-sex">
+language: <div class="field-collection-view clearfix view-mode-full" id="content-grid-item-language">
+consumerism: <div class="field-collection-view clearfix view-mode-full" id="content-grid-item-consumerism">
+drugs: <div class="field-collection-view clearfix view-mode-full" id="content-grid-item-drugs">
+
+review-product-details-list
