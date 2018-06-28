@@ -15,7 +15,7 @@ import requests
 request = "books.txt"
 
 
-columns = ['title', 'author', '']
+columns = ['title', 'author', 'rating']
 
 
 with open(request) as f:
